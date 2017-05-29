@@ -1,0 +1,8 @@
+Benutzer (Lehrer): temutmic
+Passwort: 1234
+
+Benutzer (Sekretariat): Sek
+Passwort: 1234
+
+Benutzer (Admin): Admin
+Passwort: 1234
